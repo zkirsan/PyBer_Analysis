@@ -16,7 +16,7 @@ According to the data, the following analyses were created,
     5. % of Total Fares by City Type 
     6. % of Total Rides by City Type 
     7. % of Total Drivers by City Type 
-    8. Total Fare by City Type https://github.com/zkirsan/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png
+    8. Total Fare by City Type 
 
 A bubble chart below shows PyBer ride-sharing data by city types. Urban areas have the highest total number of rides than suburban and rural areas. On the contrary, the lowest average fare was seen in the rural regions.
 
@@ -48,5 +48,10 @@ The final pie graph presents the percentage of total drivers by city type. 80.9 
 
 <p align="center"><img src="https://github.com/zkirsan/PyBer_Analysis/blob/main/Analysis/Fig7.png"></img></p>
 
+Finally, the multi-line chart shows total fare by city types. It indicated a correlation about density which defines the relationship between fare/ride and population. As we know that according to the census, in general, a big portion of the population lives in urban areas. This idea illustrates more rides and more fares in urban areas. As a result, The PyBer gets most of its revenue from urban areas, which have high population density.
+
+<p align="center"><img src="https://github.com/zkirsan/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png"></img></p>
 
 ## Summary
+
+Based on the analyses, in my opinion, first, they should increase the number of drivers in the rural cities, which should cover the driver demand in the specific area. Second, the analyses show that the average fare per ride and driver in rural cities is much greater than in suburban and urban cities. To balance the average fare and rural area drivers' demand, which needs more analyzing at the local scale, and which may be adding the population variable into the neighbourhood scale and doing more analyzes. 
